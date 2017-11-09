@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  Expense_Manager.cpp
+Expense_Manager.cpp(582): warning C4101: 'hWnd': unreferenced local variable
+Expense_Manager.cpp(883): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(884): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(888): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(898): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(899): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(902): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(914): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(915): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(919): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(929): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(930): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(933): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(944): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(945): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(948): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(959): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Expense_Manager.cpp(960): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(963): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Expense_Manager.cpp(867): warning C4101: 'buffer': unreferenced local variable
+  ItemModel.cpp
+  Generating code
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Expense_Manager.vcxproj -> C:\Users\MINHDAT-PC\Documents\Visual Studio 2017\Projects\1512103_MidTerm\Release\Expense_Manager.exe

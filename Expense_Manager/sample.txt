@@ -1,0 +1,10 @@
+500000
+Ăn uống
+100000
+Ăn sáng...
+Di chuyển
+200000
+Di chuyển...
+Xe cộ
+200000
+Xe cộ...
